@@ -1,6 +1,8 @@
 [package]
 name = "typed_cfg"
-version = "0.1.0"
+version = "0.0.1"
 edition = "2024"
+description = "A statically-typed and exhaustively-checked alternative to `cfg(feature)`"
+license = "MIT"
 
 [dependencies]
